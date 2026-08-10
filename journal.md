@@ -5,14 +5,19 @@ statos = statico , robot = rotacion vdd
 
 
 nuestro cuero, rotor
+
 <img width="350" height="233" alt="image" src="https://github.com/user-attachments/assets/e7d9d9e9-1251-484e-b860-aaa9f865f44f" />
+
 el rotor tiene una bobinota, commutador y el eje.
 
 stator
+
 <img width="474" height="315" alt="image" src="https://github.com/user-attachments/assets/dfc0a6b6-f905-4212-8d96-fd4d7d869188" />
 
 communator
+
 <img width="474" height="248" alt="image" src="https://github.com/user-attachments/assets/bc762b86-102d-4860-8f31-db918349ee62" />
+
 
 el commutador o tmbn se le dice colector de delegas, es un interruptor que gira y esta en el eje del rotor.
 esta hecho d laminas o cosas metalicas d cobre que se llaman delegas
@@ -35,14 +40,20 @@ esta super facil de aprender  positivo + , e1 , d1 , bobina , d2 , e1 , negativo
 acuerdate de esto como un patron q tienes q seguir si quieres q jale tu webada.
 
 ENCONTRE ESTA FOTO EPICA 
+
 <img width="474" height="843" alt="image" src="https://github.com/user-attachments/assets/9f36d8e6-c1c5-42d2-b685-b8ed0639f42c" />
 
  <img width="750" height="422" alt="image" src="https://github.com/user-attachments/assets/2b4da6a8-5647-4a92-9bba-7376d3a552e4" />
+ 
  btw sensores de efecto hall es algo super hiper mega cool super chiquitiboom bombita 
  Un sensor de efecto hall es un compoonente electronico chiquitiboom a la bim bom ba que detecta la cuando hay fuerza de un campo magnetico o sea un iman duh y lo hace señal electrica.
 en la pic esta el motor de la izquierda es un motor cc sin escobillas entncs el efecto hall remplaza a las escobillas o m g , la foto derecha si tiene escobillas.
 te recuerdo q las escobillas rozan a las delegas mecanicamente para saber cuando carambolas cambiar la corriente, entncss en ek motor sin escobillas no hay nada rozando.
 
 tmbn el efector hall detecta la posicion del iman por q los sensores leen en q posicion estan los imanes del rotor mientras gira.
+
+TORQUEE
+--
+
 
 tal vez no soy tonta tal vez naci para hablar d motores ...
