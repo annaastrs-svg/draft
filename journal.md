@@ -167,6 +167,7 @@ DIFERENCIAL
 En un carro normal si das vuelta a la derecha, la rueda isquierda tiene que correr mas distancia q la derecha vdd. para que esto pase sin que se arrastren los carros tienen una DIFERENCIAL, un sistema de engranajes complejo que permite que las ruedas traseras giren a diferentes velocidades.
 
 FUN FACT los go karts usan solid axle, un ehe trasero fijo. es lit un tubo laego de metal solido que conecta las dos llantas traseras.
+
 has d cuenta q esta la cadena y el piñon y el tubo de metal solido que conecta ambas ruedas sin ningun diferencial complejo en el medio. 
 
 lo buenoo es q es spr facil d armar, las dos ruedas giran igual, por eso esta fun manejar karts.
@@ -176,8 +177,10 @@ HUB MOTOR - motor de buje
 un motor de buje es el q esta adentro de la rueda, es comun en scooters fun fact.
 
 si pones el motor directo asi en la llanta, el motor gira exactamente a la misma velocidad que la llanta. 
+
 para q el go kart vaya a 60 km/h con las llantas chiquitas, estas tienen q girar rapido.
 los motores electricos pequeños son muy buenos girando a lo loco, peroo tienen poco torque a tantas velocidades, fun fact llegan a 3 mil o 5 mil RPM ! WOWOWO 
+
 si le exiges a un motor de buje q arranque un kart pesado desde 0 y que luego gire rapido, esa cosa se va a quemar y sobrecalentar, tendrias q usar uno absolutamente abursamente grande y costosooooo.
 
 CADENA Y PIÑON WOWOWOWOWOWO 
@@ -204,3 +207,38 @@ en sistema de cadenas es una rueda dentada que no toca a otra ruena si no que en
 <img width="646" height="816" alt="image" src="https://github.com/user-attachments/assets/f41c14de-2fdf-4e47-9671-e76486e48d9d" />
 
 INTERIOR DE UN MOTOR BUJE! 
+
+
+MATEMATICAS
+---
+
+como ya dije, perdemos velocidad pero multiplicamos el torque, la formula es esta :
+
+Relscion de engranaje = dientes rueda grande (corona) / dientes piñon 
+
+Torque rueda = Torque motor multiplicado por relacion 
+
+que significa esto ?? si tu piñon tiene 10 dintes, y la corona 50 , 50/10 = 5  facil 
+
+velocidad real del kart guys . . . 
+
+v = velocidad real (m/s
+w rueda = omega) que tan rapido (RPM
+rrueda = radio de llanta 
+
+si tienes unas llantotas tienes mas V pero requieres mas T asi q tu motor sufre.}} 
+
+
+ La cruda realidad de los WATTS 
+
+ el kart ponle q pesa 100 kg.
+ calcula cuanta fuerza necesita para solo vencer la friccion de las llantas de hule contra el piso(resistencia de rodadura)
+
+ Frodadura = 0.015 x 100 kg x 9.8 = 14.7 N 
+
+ luego calculan la Potencia necesaria para ir a una velocidad de 20 km/h (5.56m/s)
+
+ P = F x v = 14.7 x 5.56 estimadamente 82 W  
+
+
+ 
