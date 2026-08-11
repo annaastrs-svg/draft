@@ -277,4 +277,27 @@ FUN FACCTTTTTT en los go kart de carreras professionales aveces configuran la di
 
 Trigonometria basica BTWWW by the super way 
 
-hay q medir la distancia entre ejes, del centro 
+haremos:
+hay q medir la distancia entre ejes, del centro trasero mide desde su centro hasta la linea imaginaria donde estara el centro de las llantas delanteras.
+
+mide la distancia entre los puntos de pivote (kingpins) donde van a girar tus llantas delanteras, mide de tornillo de pivte a tornillo de pivote.
+
+dibuja esto en un softwere cad, la linea del eje trasero, los dos pivotes delanteros y una linea central a lo largo de todo el kart.
+
+El principio de ackermann dice que si trazas una linea desde el pivote de la rueda delantera hasta el centro exacto eje trasero, esa linea te da el angulo perfecto para el brazo de direccion. 
+
+trazas las lineas (punto de interseccion),
+desde el punto de pivote delantero hasta el centro de eje trasero, estas tos lineas MARCAN UNA V 
+
+(imagina tu go kart desde arriba, pones un punto en el pivote (BISAGRA) de la llanta izquierda, Pones otro punto en el pivote de la llanta derecha, Pones un punto en el centro exacto del eje trasero (aqui estaran las llantas de atras). formas una V. Para que sirve? Te dice exactamente haciia donde deben apuntar las palancas, o sea donde deben estar los brazos de direccion, en lugar de soldar las palancas derechas, las tienes q soldar chuecas, siguiente el angulo de las lineas V)
+
+Por que hacemos esto? si sueldas recto los brazos, ambas llantas se moverian een el mismo numero de grados, en una curva esto haria q giraran en 20´g y la llanta delantera rasparia.
+
+pero si sueldas en V el brazo de la llanta izq se mueve en una posicion donde la varilla lo empuja con mas palanca, mientras tanto el brazo de la derecha se mueve en un angulo donde la varilla tiene menos palanca.
+
+la longitud de los brazos la tienes que deccidir xq iran soldados a los pivotes ej: 10 cm 
+
+Los brazos de direccion esss, imaginate que las llantas delanteras estan montadas en una pieza metalica que gira como una bisagra de una puerta. 
+si solo tienes la bisagra , no tienes de donde empujar para hacer girar la llanta. 
+el brazo de direccion(steering arm) es una palanca de metal q va soldada a la bisagra. 
+
