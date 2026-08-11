@@ -16,7 +16,7 @@ stator
 
 <img width="474" height="315" alt="image" src="https://github.com/user-attachments/assets/dfc0a6b6-f905-4212-8d96-fd4d7d869188" />
 
-El stator es estativo vdd, tiene imanes permanentes o aveces otras bobinas fijas, para que haya repulson xq ocupas dos campos magneticos peleandose. el stator pone la base magnetica para q el electro iman de tu rotor (la bobina que enrollaste ) tenga algo con lo andarse emoujando. sin los imanes del stator, tu rotor ndms se calienta sin moverse.
+El stator es estatico vdd, tiene imanes permanentes o aveces otras bobinas fijas, para que haya repulson xq ocupas dos campos magneticos peleandose. el stator pone la base magnetica para q el electro iman de tu rotor (la bobina que enrollaste ) tenga algo con lo andarse emoujando. sin los imanes del stator, tu rotor ndms se calienta sin moverse.
 
 
 communator
@@ -88,9 +88,119 @@ imane mas potentes ejjeje haremos Neodimio JEJEJEJEJJE
 metele mas galleta a la pila sin quemar el alambre 
 
 Como calcular cuento torque (fuerza) tendra tu motor sepenienso del alambre 
+T = NIABsin(0)
+
+<img width="667" height="706" alt="image" src="https://github.com/user-attachments/assets/632f67f1-95d2-4eba-880f-83f405be5eea" />
+
+Torque = numero de vueltas o sea cuantas veces enrollaste el alambre alrededor del rotor MULTIPLICADO POR la corriente o sea la cantidad de amperios que fluye por el alambre MULTIPLICADO POR el tamaño del rectangulo o circulo que forma tu bobina o sea el area MULTIPLICADO POR que tan potentes son los imanes de tu stator o sea el campo magnetico MULTIPLICADO POR el angulo, el angulo cambia mucho.
+
+situacion 1 
+Si tu alambre es muy delgado , le caben muchas vueltas al rotor = TU N SUBE 
+peroo tiene mucha resistencia electrica. no pasa bien la electricidad I BAJAA 
+1 = motor q gira pero frena facil womp womp (fun fact los carros d formula 1 sin muy dificiles de frenar !!!! lo vi en un reel de instagram. . .)
+
+situacion 2 
+tu alambre es muy grueso entncs la electricidad fluyeee, I SUBE WOWOWO 
+ocupa espacio, pocas vueltas N CAEEEE 
+2 = bastante corriente pero no hay electro iman, consume mucha pile y genera poco torque. . .
+
+EL SECRETO DE LOS INGENIEROS ! 
+encontrar un grosor perfecto d alambre tiene todo q ver por el calibre. para q la multiplicacion N I te de el numero mas grande posinle dentro de el espacio de tu rotor, sin que sobre caliente. 
 
 
-------------------------------------------------
+ ando jugando con una calculadora interactiva para calcular el torque 
+
+ si muevo el Number of turns (N) sube el torque.
+ si muevo el Magnetic Field (B) in Tesla sube el torque.
+ si muevo current amps (I) se mueve el torque.
+ si muevo Width se mueve el torque y el area calculada (loop width y total loop area )
+ si muevo length se mueve Total Loop Area , Loop Length , torque y calculated area 
+
+ EL ALAMBRE D COBRE IDEAL Y SI CALIBRE 
+ el sweet spot es 24-28 es lo suficientemente delgado cmo para dar 30 cueltas o 50 y tener un N alto pero lo suficiente mente gruerso como para aguanta 3.4 - 1.4 Amps, ideal para motores alimentados con 3-9 VOLTS 
+
+AWG 30-32 esta super delgado 
+alta resistencia y si le metes una bateria potente se va a poner rojo y quemara el esmalte aisalnte.
+
+AWG 20-222 ENORME 
+5-10 amps y super rigido  
+ 
+un AWG 28 es seguro, corriente segura de 1.40 a con un diametro de 0.321 mm. no bajes el awg a mas de 28, awg30 tiene probabilidad de over heat con 0.86 a y pues no vdd.
 
 
 tal vez no soy tonta tal vez naci para hablar d motores ...
+
+
+FASE 1 CONSTRUIR LOS MOTORES AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH 
+--
+
+BOM 
+---
+Ocupamos  
+PILA 9 V 
+1 METRO ALAMBRE DE COBRE ESMALTADO 
+UN IMAN DE NEODIMIO 
+DOS CLIPS METALICOS 
+
+
+Q HACEMOS CN ESTO ?
+--
+enrollamos 20-30 vueltas de alambre formando la bobina, dejamos las dos puntas libres y raspamos el esmalte de un solo lado en cada punta, ese detalle es claveee, actua como conmutador casero, si leiste todo lo que escribi sabes lo importante que es. este conmutador casero corta el circuito automaticamente en cada media vuelta para que el campo se invierta y la bobina no se frene sola contra el iman. montaremos la bobina sobre el clip acercaremos el iman por debajp y con un empujon ARRANCARA SOLAAA
+
+este motor es debil a proposito btw, hablamos de fracciones de NF o sea newtons de fuerza (para q te familiarices bro) . sirve para entender, esta lejos de mover un go kart pero tenemos que entender estooo primero antes d hacer un go kart.
+
+EL MOTOR REAL TUF TUF 
+---
+
+para tracción real necesitas un motor ya fabricado . . . no devanado a mano, asi funciona el 100% de los go karts electricos reales, devanar a mano un motor de cientos de watts implicaria kilometros de alambre, balanceo de presion y sistemas de enfriamento que no son viables en un taller casero. un kit de 500 watts, da mejor aceleracion y sube pendientes mas pronunciadas y existen kits comerciales hasta 2 mil - 3 mil watts para karts mas pesados o de uso todo terreno, usan mayormente entre 24-73 VOLS !!!  QUEEEE. 
+
+WOMP WOMP WWWWWWWWOOOOOMMMMMPPPPP
+
+a tomar en cuenta, el calibre del alambre ! = mas grueso = mas reisstenica = mas corriente = mas calor = hsy que balancear, ¿como se balancea anna? no se ahorita checo. womp 
+el torque del motor casero no escala linealmente con el esfuerzo, duplicar cueltas no duplica el torque de forma simple por q tambien sube la resistencia.
+
+FASE 2
+--
+
+DIFERENCIAL
+
+En un carro normal si das vuelta a la derecha, la rueda isquierda tiene que correr mas distancia q la derecha vdd. para que esto pase sin que se arrastren los carros tienen una DIFERENCIAL, un sistema de engranajes complejo que permite que las ruedas traseras giren a diferentes velocidades.
+
+FUN FACT los go karts usan solid axle, un ehe trasero fijo. es lit un tubo laego de metal solido que conecta las dos llantas traseras.
+has d cuenta q esta la cadena y el piñon y el tubo de metal solido que conecta ambas ruedas sin ningun diferencial complejo en el medio. 
+
+lo buenoo es q es spr facil d armar, las dos ruedas giran igual, por eso esta fun manejar karts.
+
+HUB MOTOR - motor de buje
+
+un motor de buje es el q esta adentro de la rueda, es comun en scooters fun fact.
+
+si pones el motor directo asi en la llanta, el motor gira exactamente a la misma velocidad que la llanta. 
+para q el go kart vaya a 60 km/h con las llantas chiquitas, estas tienen q girar rapido.
+los motores electricos pequeños son muy buenos girando a lo loco, peroo tienen poco torque a tantas velocidades, fun fact llegan a 3 mil o 5 mil RPM ! WOWOWO 
+si le exiges a un motor de buje q arranque un kart pesado desde 0 y que luego gire rapido, esa cosa se va a quemar y sobrecalentar, tendrias q usar uno absolutamente abursamente grande y costosooooo.
+
+CADENA Y PIÑON WOWOWOWOWOWO 
+
+los ingenieros hacen trampa y usan engranajes (relacion de transmision)
+
+en lugar de poner el motor en la rueda, pones un motor a un lado, le pones un engranaje chiquito al motor (piñon) y un engranaje gigante al eje de las llantas y los unes con una cadena.
+el motor gira feliz 3 mil RPM EFICIENTEE 
+
+engranaje del eje mas grande, la llanta solo gira 500 RPM
+
+pierdes velocidad pero MULTIPLICAS TORQUE A LO BESTIAAA
+
+explicacion de lenguaje rimbomante 
+--
+
+engranaje es como una rueda que esta diseñada para q este con otra rueda, prob lo ubiques por que se usa para dar fuerza con un motor a varias cosas o crear un mecanismo de engranajes 
+
+urm piñon se usa de dos formas, en un sistema de engranajes, o en un sistema de cadena.
+cuando tienes que usar engranajes el mas pequeño se le llama piñon y el grande se llama corona. 
+en sistema de cadenas es una rueda dentada que no toca a otra ruena si no que engancha eslabones de una cadena, como una bici.
+
+
+<img width="646" height="816" alt="image" src="https://github.com/user-attachments/assets/f41c14de-2fdf-4e47-9671-e76486e48d9d" />
+
+INTERIOR DE UN MOTOR BUJE! 
