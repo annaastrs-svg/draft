@@ -241,4 +241,40 @@ si tienes unas llantotas tienes mas V pero requieres mas T asi q tu motor sufre.
  P = F x v = 14.7 x 5.56 estimadamente 82 W  
 
 
+ FASE 3 
+ --
+
+ como giran las ruedas ? 
+
+ minimo yo me pregunte esto y esta SUPER HIPER INTERESANTE AHHH 
+
+ GEOMETRIA DE ACKERMANN !!!! 
+ --
+
+ ya hablamos del eje trasero fijo guys, donde las llantas traseras giran exactamente igual y por eso esta chido derrapar, pero en las llantas delanteras es diferente wowoowow, ino giran con inteligencia matematica, tu kart no daria vuelta, solo arrastraria las llantas x el asfalto.
+
+ el problema es q esta esto q se llama el sindrome de las llantas peleoneras.
+
+ la llanta delantera izquierda (la que esta dentro de la curva) tiene q hacer un circulo chiquito.
+
+ la llanta delantera derecha (afuera) tiene que recorrer mas distancia y hacer un circulo mas grande.
+
+ si ambas ruedas giran paralelas, estarian oeleando entre si, la inferior intentaria ir a un lado y la exterior arrastraria, el reultado seria un desgasta super terrible dnd btw tmbn pierdes velocidad y el volante se sentiria terrible.
+
+ EL TRAPECIO MAGICO DE ACKERMANN ES LA COLUCION 
  
+ <img width="662" height="730" alt="image" src="https://github.com/user-attachments/assets/0b4bfce6-68ad-42db-ad1f-09cde4be0604" />
+
+esta es la cosa mas bella que he visto en el universo observable
+ 
+La geometria de ackermann es un truco mecanico puramente fisico, en lugar de que los brazos de direccion de las llantas delanteras apunten rectos hacia atras(haciendo un rectangulo), los ingenieros los inclinan un poco hacia adentro apuntando el centro del eje trasero.
+
+Esto forma un trapecio. cuando giras el volante, el mecanismo empuja las llantas asimetricamente, la llanta de adentro gira mas en un angulo mas cerrado a comparacion de la llanta de afuera.
+
+bom al hacer esto, las lineas imaginarias de los ejes de las llantas delanteras se cruzan exactamente en el mismo punto de la linea del eje trasero. cada llanta sigue su propio circulo perfecto y el kart da la vuelta como mantequilla.
+
+FUN FACCTTTTTT en los go kart de carreras professionales aveces configuran la direccion con ackermann inverso o paralelo para calentar las llantas mas rapido, para go karts caseros es buena ley.
+
+Trigonometria basica BTWWW by the super way 
+
+hay q medir la distancia entre ejes, del centro 
