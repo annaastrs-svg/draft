@@ -152,7 +152,7 @@ este motor es debil a proposito btw, hablamos de fracciones de NF o sea newtons 
 EL MOTOR REAL TUF TUF 
 ---
 
-para tracción real necesitas un motor ya fabricado . . . no devanado a mano, asi funciona el 100% de los go karts electricos reales, devanar a mano un motor de cientos de watts implicaria kilometros de alambre, balanceo de presion y sistemas de enfriamento que no son viables en un taller casero. un kit de 500 watts, da mejor aceleracion y sube pendientes mas pronunciadas y existen kits comerciales hasta 2 mil - 3 mil watts para karts mas pesados o de uso todo terreno, usan mayormente entre 24-73 VOLS !!!  QUEEEE. 
+para tracción real necesitas un motor ya fabricado . . . no devanado a mano, asi funciona el 100% de los go karts electricos reales, devanar a mano un motor de cientos de watts implicaria kilometros de alambre, balanceo de presion y sistemas de enfriamento que no son viables en un taller casero. un kit de 500 watts, da mejor aceleracion y sube pendientes mas pronunciadas y existen kits comerciales hasta 2 mil - 3 mil watts para karts mas pesados o de uso todo terreno, usan mayormente entre typo 73 VOLS !!!  QUEEEE. 
 
 WOMP WOMP WWWWWWWWOOOOOMMMMMPPPPP
 
@@ -300,4 +300,95 @@ la longitud de los brazos la tienes que deccidir xq iran soldados a los pivotes 
 Los brazos de direccion esss, imaginate que las llantas delanteras estan montadas en una pieza metalica que gira como una bisagra de una puerta. 
 si solo tienes la bisagra , no tienes de donde empujar para hacer girar la llanta. 
 el brazo de direccion(steering arm) es una palanca de metal q va soldada a la bisagra. 
+
+
+
+
+FASE 4 - 
+---
+mas geometria
+columna de direccion , que como se monta con chumaceras pa q gire sin bailar
+vol y cubo adaptador y como se acopla a la columna 
+brazo pitam ¿, la palanca en la base de la columna convierte el gira al volante en empuje lineal 
+el drag link, conecta pitam a uno d dos brazos de dirreccion (izq
+rotulas rod ends, las juntas esfericas en las puntas de las barras por que no puedes usar un tornillo pijo o se te traba con el moviemineto de ejejejes 
+relacion de direccion, cuantos grados gira la llanta por cada grado que gira al volante y por que sin direccion asistida conviene una relacion rapida 
+ajuste fino / alineacion como centrar el volante cuando las llantas ya estan derechas sando la rosca de las barras
+topes de giro, evitar que la llanta roce de las barras la carroceria o el brazo se sobre extienda 
+ prueba en seco, gira toda la mano de tope a tope sin motor antesd de la primera arrancada 
+ . . . . . .. . . . ..-cede´ldñ  
+
+<img width="520" height="332" alt="image" src="https://github.com/user-attachments/assets/ea416004-262b-4ea6-8a6a-3595b26b3649" />
+
+FASE 5 - chasis . . . 
+---
+
+yo use buildiamigo
+
+FASE 6 seguridad / electrico 
+--
+
+
+freno / switch etc 
+
+BIBLIOBRAFIA 
+
+Nave, C. R. (s.f.). Commutator and brushes on DC motor. HyperPhysics, Georgia State University. http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/comtat.html.
+
+OpenStax. University Physics Volume 2, sección 11.5 "Force and Torque on a Current Loop". https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop 
+
+JETIR2501641 — "Design & Calculations of Ackermann Steering System in a Go-Kart". https://www.jetir.org/papers/JETIR2501641.pdf
+
+KartFab. (s.f.). Go kart frame plans. https://kartfab.com/go-kart-plans/go-kart-frame
+
+DIYGoKarts. (s.f.). Plans - frame - how to design. https://www.diygokarts.com/kart-plans/plans-frame-how-to-design.html
+
+
+DIRECCION FAS E4 
+
+Carinterior.alibaba.com. (2026, 26 de enero). What to know about go kart steering columns: How to choose, install, and maintain. https://carinterior.alibaba.com/question/go-kart-steering-column-guide-buying-tips
+
+
+KartFab. (2019, 2 de febrero). 
+Go kart steering system: Parts, design & build. https://kartfab.com/go-kart-plans/go-kart-steering 
+
+VOLANTE CUBO ADAPTADOR 
+
+KartFab. (2019, 2 de febrero). Go kart steering system: Parts, design & build. https://kartfab.com/go-kart-plans/go-kart-steering cómo hicieron el cubo con una arandela de 2 un medio")
+
+
+Kart Parts Depot. (s.f.). Go kart steering hubs — Standard, adjustable, incline, and quick release. https://www.kartpartsdepot.com/Go_Kart_Steering_Boss_Hubs_Adjustable_Incline_Quick_Release_s/2259.htm (es página de producto, no artículo explicativo — cítala solo si hablas de opciones comerciales)
+
+PITMAN 
+
+Firgelli Automations. (2026, 14 de mayo). Pitman arm steering mechanism explained: How it works, diagram, parts, and uses. https://www.firgelliauto.com/blogs/mechanisms/pitman-arm
+
+Wikipedia. (s.f.). Pitman arm. https://en.wikipedia.org/wiki/Pitman_arm
+
+DRAG LINK 
+
+Wikipedia. (s.f.). Drag link. https://en.wikipedia.org/wiki/Drag_link
+
+AutoZone. (2026, 30 de marzo). What is a drag link? https://www.autozone.com/diy/suspension/what-is-a-drag-link
+
+Rótulas Rod ends  4
+
+Buy Auto Parts. (2020, 31 de julio). Mechanical steering system diagram. https://www.buyautoparts.com/blog/mechanical-steering-system-diagram/
+Mevotech. (2022, 26 de enero). The low-down on conventional steering systems. https://www.mevotech.com/article/article-the-low-down-on-conventional-steering-systems/
+
+ Relación de dirección
+
+Pacejka, H. B. (2006). Tire and vehicle dynamics (2ª ed.). SAE International. (esta es LA referencia académica estándar en dinámica vehicular — la vi citada directamente en el artículo de Wikipedia de abajo, así que es fuente real, no de segunda mano)
+Wikipedia. (s.f.). Steering ratio. https://en.wikipedia.org/wiki/Steering_ratio
+
+ Ajuste fino , alineación (toe
+
+AA1Car. (s.f.). What every motorist should know about wheel alignment. https://www.aa1car.com/library/wheel_alignment.htm
+How A Car Works. (s.f.). Adjusting toe alignment on wheels. https://www.howacarworks.com/steering/adjusting-toe-alignment-on-wheels
+
+steering stops
+
+KartFab. (2019, 2 de febrero). Go kart steering system: Parts, design & build. https://kartfab.com/go-kart-plans/go-kart-steering (mismo artículo otra vez — específicamente donde limitan el recorrido del brazo pitman a 45° con angular de metal)
+
+
 
