@@ -335,7 +335,7 @@ BIBLIOBRAFIA
 
 Nave, C. R. (s.f.). Commutator and brushes on DC motor. HyperPhysics, Georgia State University. http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/comtat.html.
 
-OpenStax. University Physics Volume 2, sección 11.5 "Force and Torque on a Current Loop". https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop 
+OpenStax. University Physics Volume 2, sección 11.5 "Force and Torque on a Current Loop". https://openstax.org/books/university-physics-volume-2/pages/11-5-force-and-torque-on-a-current-loop - ingles y el d español es este https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/11-5-fuerza-y-torque-en-un-bucle-de-corriente lol 
 
 JETIR2501641 — "Design & Calculations of Ackermann Steering System in a Go-Kart". https://www.jetir.org/papers/JETIR2501641.pdf
 
