@@ -57,7 +57,7 @@ btw si las delegas estuvieran unidas la corriente salta por D1,D2 sin entrar a l
 
 el resumen de como se mueve la electricidad es de q 
 pila poso positivo  - > va a la escobilla 1 - > delega 1 -> alambre de la bobina -> delega 2 - > escobilla 2 - > pilla 2 
-esta super facil de aprender  positivo + , e1 , d1 , bobina , d2 , e1 , negativo - 
+esta super facil de aprender  positivo + , e1 , d1 , bobina , d2 , e2 , negativo - 
 acuerdate de esto como un patron q tienes q seguir si quieres q jale tu webada.
 
 ENCONTRE ESTA FOTO EPICA 
