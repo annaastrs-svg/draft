@@ -1,6 +1,6 @@
-Para hacer un motor CC hay q pillar q los polos d un magneto se repeelen y crean una fuerza, el motor tiene estas weas q son como cables d cobre entncs se convierte en bobinas, si sabemos el flujo de electricidad q hacen las bobinas mas la fuerza q tiene y asi.
+Para hacer un motor CC hay q pillar q los polos d un magneto se repeelen y crean una fuerza, el motor tiene estas weas q son "lazos" d cobre, si sabemos el flujo de electricidad q hacen las bobinas mas la fuerza y jugamos con su anatomia hacemos un motor cc.
 
-erm vamos a dividir el motor en 2 partes, el stator y el rotor 
+amos a dividir el motor en 3 partes, el stator,commutador y el rotor 
 statos = statico , robot = rotacion vdd 
 
 
