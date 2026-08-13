@@ -33,8 +33,8 @@ esto es por q si se tocaran la electricidad haria cortocircuito y pasaria direct
 Lo q hace este pibre el commutador es transferir corriente, conecta la fuente de alimentacion fija con las bobinas en movimiento medisnte el roce continuo con las escobillas
 (las escobillas son cositas que no se mueven, rozan suavecito contra el colector(el colector es un conjunto completo formado por todas las delegas .
 
-(btw nose si ya dije q la delega es una lamina metalica d cobre q este en el eje del motor o sea imaginate de q el motor y hay un tubo pequeño d plastico cortado en dos o mas tiritas metalicas a lo largo, cada tira o laminas individuales es una delega omg)
- el colector las tiene montadas todas juntas en un cilindro alrededor del eje pero ailadas entre si, entncs la delega es la lamina sola, el colector es el cilindro entero q forman todas las delegas al juntarse en el eje, me doy a entender¿?)
+( ya dije pero explico mas, la delega es una lamina metalica d cobre q este en el eje del motor o sea imaginate de q el motor y hay un tubo pequeño d plastico cortado en dos o mas tiritas metalicas a lo largo, cada tira o laminas individuales es una delega omg)
+ el colector las tiene montadas todas juntas en un cilindro alrededor del eje pero ailadas entre si, entncs la delega es la lamina sola, el colector es el cilindro entero q forman todas las delegas al juntarse en el eje.
 buenooo meintras este commutador gira.
 
 las escobillas estan hechas de carbon o grafito pero los caseros cmo el mio maybe sera de alambre rigido, clips o laminas de cobre fijas a la base, la escobilla esta conectada al polo positivo de la pila y la otra al negativo, cmo estan rozando contra el colector (omg alguien dijo colector?) erm y el colector esta girando las escobillas le inyectan la electricidad al rotor sin necesidad de soldar los cables al eje OWOWOWOWOWO que pros )
